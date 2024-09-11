@@ -1,0 +1,5 @@
+*.env
+*.json
+NODES/.env
+0-ARCHIVE
+.venv
